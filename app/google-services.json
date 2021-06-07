@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709414468873",
+    "project_id": "spotify-music-player-5f814",
+    "storage_bucket": "spotify-music-player-5f814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709414468873:android:5a6bb89b0ffc4901eb27d8",
+        "android_client_info": {
+          "package_name": "com.example.spotifymusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709414468873-fb3vhimtk4jq07pkd183qmu7ao3tpqpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKGkZKIaNRTOwtn8lmGxnRC4swKMPELIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709414468873-fb3vhimtk4jq07pkd183qmu7ao3tpqpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
